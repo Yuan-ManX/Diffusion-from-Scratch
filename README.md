@@ -1,2 +1,3 @@
-# Diffusion-from-Scratch
+# Diffusion from Scratch
+
 Diffusion Training from Scratch.
