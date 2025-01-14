@@ -16,3 +16,4 @@ omegaconf
 datasets
 hydra-core
 beautifulsoup4
+mosaicml[tensorboard, wandb]
